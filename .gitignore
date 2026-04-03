@@ -1,0 +1,4 @@
+datas/
+models/*.joblib
+catboost_info/
+*.csv
